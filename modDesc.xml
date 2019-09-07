@@ -26,6 +26,12 @@ Avec le réglage de faible consommation de carburant dans le jeu : 200% de conso
         </fr>
     </description>
 
+    <credits><![CDATA[
+## Translations
+German - 
+French - Farmer1602
+]]></credits>
+
     <iconFilename>icon.dds</iconFilename>
 
     <multiplayer supported="true" />
