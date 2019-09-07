@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="44">
+    <author>Realismus Modding</author>
+    <contributors>reallogger</contributors>
+
+    <version>1.0.0.0</version>
+
+    <title>
+        <en>Higher Fuel Consumption</en>
+        <de>Higher Fuel Consumption</de>
+        <fr>Higher Fuel Consumption</fr>
+    </title>
+
+    <description>
+        <en><![CDATA[Higher fuel consumption for all vehicles.
+Together with ingame default fuel usage setting: 300% fuel consumption. 
+Together with ingame low fuel usage setting: 200% fuel consumption.]]>
+        </en>
+        <de><![CDATA[Higher fuel consumption for all vehicles.
+Together with ingame default fuel usage setting: 300% fuel consumption. 
+Together with ingame low fuel usage setting: 200% fuel consumption.]]>
+        </de>
+        <fr><![CDATA[Higher fuel consumption for all vehicles.
+Together with ingame default fuel usage setting: 300% fuel consumption. 
+Together with ingame low fuel usage setting: 200% fuel consumption.]]>
+        </fr>
+    </description>
+
+    <iconFilename>icon.dds</iconFilename>
+
+    <multiplayer supported="true" />
+
+	<extraSourceFiles>
+        <sourceFile filename="src/HigherFuelConsumption.lua" />
+    </extraSourceFiles>		
+</modDesc>
