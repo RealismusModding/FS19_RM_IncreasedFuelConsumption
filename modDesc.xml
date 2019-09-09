@@ -7,8 +7,8 @@
 
     <title>
         <en>Higher Fuel Consumption</en>
-        <de>Higher Fuel Consumption</de>
-        <fr>Higher Fuel Consumption</fr>
+        <de>Höherer Spritverbrauch</de>
+        <fr>Consommation de carburant plus élevée</fr>
     </title>
 
     <description>
@@ -16,9 +16,9 @@
 Together with ingame default fuel usage setting: 300% fuel consumption. 
 Together with ingame low fuel usage setting: 200% fuel consumption.]]>
         </en>
-        <de><![CDATA[Higher fuel consumption for all vehicles.
-Together with ingame default fuel usage setting: 300% fuel consumption. 
-Together with ingame low fuel usage setting: 200% fuel consumption.]]>
+        <de><![CDATA[Höherer Spritverbrauch für alle Fahrzeuge.
+Zusammen mit der Standardeinstellung im Spiel für den Spritverbrauch: 300% Spritverbrauch. 
+Zusammen mit der Einstellung im Spiel für niedrigen Spritverbrauch: 200% Spritverbrauch.]]>
         </de>
         <fr><![CDATA[Consommation de carburant plus élevée pour tous les véhicules.
 Avec le réglage de consommation de carburant par défaut dans le jeu : 300% de consommation de carburant. 
@@ -28,10 +28,9 @@ Avec le réglage de faible consommation de carburant dans le jeu : 200% de conso
 
     <credits><![CDATA[
 ## Translations
-German - 
 French - Farmer1602
 ]]></credits>
-
+    
     <iconFilename>icon.dds</iconFilename>
 
     <multiplayer supported="true" />
