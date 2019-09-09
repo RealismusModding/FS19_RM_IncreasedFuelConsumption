@@ -6,13 +6,13 @@
     <version>1.0.0.0</version>
 
     <title>
-        <en>Higher Fuel Consumption</en>
+        <en>Increased Fuel Consumption</en>
         <de>Höherer Spritverbrauch</de>
         <fr>Consommation de carburant plus élevée</fr>
     </title>
 
     <description>
-        <en><![CDATA[Higher fuel consumption for all vehicles.
+        <en><![CDATA[Increased fuel consumption for all vehicles.
 Together with ingame default fuel usage setting: 300% fuel consumption. 
 Together with ingame low fuel usage setting: 200% fuel consumption.]]>
         </en>
@@ -36,6 +36,6 @@ French - Farmer1602
     <multiplayer supported="true" />
 
 	<extraSourceFiles>
-        <sourceFile filename="src/HigherFuelConsumption.lua" />
+        <sourceFile filename="src/IncreasedFuelConsumption.lua" />
     </extraSourceFiles>		
 </modDesc>
