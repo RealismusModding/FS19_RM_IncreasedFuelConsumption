@@ -6,7 +6,7 @@
     <version>1.0.0.0</version>
 
     <title>
-        <en>Higher Fuel Consumption</en>
+        <en>Increased Fuel Consumption</en>
         <de>Höherer Spritverbrauch</de>
         <fr>Consommation de carburant plus élevée</fr>
     </title>
@@ -30,7 +30,7 @@ Avec le réglage de faible consommation de carburant dans le jeu : 200% de conso
 ## Translations
 French - Farmer1602
 ]]></credits>
-    
+
     <iconFilename>icon.dds</iconFilename>
 
     <multiplayer supported="true" />
