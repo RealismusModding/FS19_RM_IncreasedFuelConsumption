@@ -1,6 +1,6 @@
-# FS19_RM_HigherFuelConsumption
+# FS19_RM_IncreasedFuelConsumption
 
-Higher fuel consumption for all vehicles.
+Increased fuel consumption for all vehicles.
 
 Together with ingame default fuel usage setting: 300% fuel consumption.
 
