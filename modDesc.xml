@@ -7,7 +7,7 @@
 
     <title>
         <en>Increased Fuel Consumption</en>
-        <de>Höherer Spritverbrauch</de>
+        <de>Erhöhter Kraftstoffverbrauch</de>
         <fr>Consommation de carburant plus élevée</fr>
     </title>
 
@@ -16,9 +16,9 @@
 Together with ingame default fuel usage setting: 300% fuel consumption. 
 Together with ingame low fuel usage setting: 200% fuel consumption.]]>
         </en>
-        <de><![CDATA[Höherer Spritverbrauch für alle Fahrzeuge.
-Zusammen mit der Standardeinstellung im Spiel für den Spritverbrauch: 300% Spritverbrauch. 
-Zusammen mit der Einstellung im Spiel für niedrigen Spritverbrauch: 200% Spritverbrauch.]]>
+        <de><![CDATA[Erhöhter Kraftstoffverbrauch für alle Fahrzeuge.
+Zusammen mit der Standardeinstellung ist des Kraftstoffverbrauchs im Spiel: 300%.
+Zusammen mit der Einstellung ergibt sich ein niedrigerer Kraftstoffverbrauch im Spiel: 200%]]>
         </de>
         <fr><![CDATA[Consommation de carburant plus élevée pour tous les véhicules.
 Avec le réglage de consommation de carburant par défaut dans le jeu : 300% de consommation de carburant. 
